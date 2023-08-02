@@ -1,0 +1,6 @@
+# ignore config with apikay
+/cashman-flask-project/cashman/config/*
+# ignore the model
+/cashman-flask-project/cashman/models/*
+
+example-curl.txt
