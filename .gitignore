@@ -1,6 +1,6 @@
 # ignore config with apikay
 /cashman-flask-project/cashman/config/config.py
 # ignore the model
-/cashman-flask-project/cashman/models/*
+/cashman-flask-project/cashman/models/*.bin
 
 example-curl.txt
