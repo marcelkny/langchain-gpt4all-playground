@@ -1,5 +1,5 @@
 # ignore config with apikay
-/cashman-flask-project/cashman/config/*
+/cashman-flask-project/cashman/config/config.py
 # ignore the model
 /cashman-flask-project/cashman/models/*
 
