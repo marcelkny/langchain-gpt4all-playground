@@ -19,7 +19,9 @@ def isAuthorized(headers):
 
 
 
-
+@app.route('/status', methods=['GET'])
+async def status_request():
+    return jsonify({"message": "Alive"}), 200
     
 
 @app.route('/chat', methods=['POST'])
